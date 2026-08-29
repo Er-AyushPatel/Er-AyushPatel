@@ -11,7 +11,7 @@
   <br/><br/>
 
   <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=er-ayushpatel&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Er-AyushPatel&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
   <br/><br/>
 
@@ -19,13 +19,13 @@
   <a href="mailto:ayushpatel.eng@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/er-ayushpatel" target="_blank">
+  <a href="https://linkedin.com/in/Er-AyushPatel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/er-ayushpatel" target="_blank">
+  <a href="https://leetcode.com/Er-AyushPatel" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://x.com/er_ayushpatel" target="_blank">
+  <a href="https://x.com/Er_AyushPatel" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 
